@@ -1,0 +1,2 @@
+﻿Configuration.xml-->Configuration.xml
+Language.Русский.xml-->Language\Русский\Русский.xml
